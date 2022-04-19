@@ -1,0 +1,15 @@
+|===========<POCO M3/REDMI 9T>============|
+
+Device Changlog : 
+• Intial Release
+• Bumped To 2.6
+• April Security Patch
+• Use skiaglthreaded for Renderengine backend
+• Disable VSync for CPU rendered apps
+• Enforce 24-bit audio for offload playback
+• Set max frame buffer to 3
+• Add memory optimization prop
+• disable forced shutter sounds
+• Enable skia reduce ops task splitting
+• disable forced shutter sounds
+
