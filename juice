@@ -13,4 +13,5 @@ Device Changlog :
 • disable forced shutter sounds
 • Enable skia reduce ops task splitting
 • disable forced shutter sounds
-
+• Added Prebuilt GameMod from EvolutionX
+• Rework statusbar cutout and padding
