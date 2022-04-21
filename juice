@@ -15,3 +15,6 @@ Device Changlog :
 • disable forced shutter sounds
 • Added GameMod from EvolutionX
 • Rework statusbar cutout and padding
+• Fixed Google TTS FC in Setup Wizard
+• Enforce 24-bit audio for offload playback
+• Decrease media volume step
