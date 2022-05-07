@@ -1,0 +1,14 @@
+KOSP 6/05/2022
+Changelog:
+• Bumped To 2.7
+• Fixed MiCam Green
+• Move Parts To System
+• init : Hide Magisk Better
+• Updated MIUI blobs from V12.5.2.0.RCOMIXM
+• Enable USB FastCharge upto 900ma by default
+• Disable vsync for CPU rendered Apps
+• Compiled With Proton Clang
+• Enable the pre-rendering feature
+• Fix Lock Screen Charging Overlay  
+• Fix mic issues in apps like WhatsApp
+• And More Improvement And Stability
